@@ -2,7 +2,7 @@
     "author": "vbetsch",
     "description": "My Prettier configuration files",
     "engines": {
-        "node": "24.14.1"
+        "node": ">=24.19 <25"
     },
     "exports": {
         ".": "./src/base.mjs",
