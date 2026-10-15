@@ -35,8 +35,7 @@ npm install -D @vbetsch/config-eslint @vbetsch/config-tsconfig
 
 ## 🚀 Using
 
-Check out the [vbetsch/lib-config-ts-test](https://github.com/vbetsch/lib-config-ts-test) repository for a live
-integration example.
+Check out the [vbetsch/lib-config-ts-test](https://github.com/vbetsch/lib-config-ts-test) repository for an integration example.
 
 ## 🤝 Contributing
 
